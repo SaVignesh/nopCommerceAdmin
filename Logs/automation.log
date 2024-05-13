@@ -1,0 +1,11 @@
+2024-05-13 08:25:56,972 - Test_001_Login - INFO - ***Testing Login functionality***
+2024-05-13 08:26:01,283 - Test_001_Login - INFO - ***Login functionality Test Passed***
+2024-05-13 08:26:02,843 - Test_002_Login_DDT - INFO - ***Login test with different data from Excel file***
+2024-05-13 08:26:07,947 - Test_002_Login_DDT - INFO - ***Passed***
+2024-05-13 08:26:09,678 - Test_002_Login_DDT - INFO - ***Login DDT Passed***
+2024-05-13 08:26:11,203 - Test_003_AddCustomer - INFO - ***Testing Add Customer Functionality***
+2024-05-13 08:26:19,435 - Test_003_AddCustomer - INFO - ***Add Customer Test Passed***
+2024-05-13 08:26:21,283 - Test_004_SearchCustomerByEmail - INFO - ***Search Customers By Email***
+2024-05-13 08:26:26,137 - Test_004_SearchCustomerByEmail - INFO - ***Search Customers By Email Test Passed***
+2024-05-13 08:26:27,754 - Test_005_SearchCustomerByName - INFO - ***Search Customers By Name***
+2024-05-13 08:26:31,835 - Test_005_SearchCustomerByName - INFO - ***Search Customers By Email Test Passed***
