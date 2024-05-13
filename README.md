@@ -19,6 +19,7 @@
 *	Parallel test execution
 *	HTML reports 
 *	Single test case or group of test cases can be run
+*	Run test cases using a batch file
 
 ### Folder structure
 * Package: - Consist Python file
