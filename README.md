@@ -89,7 +89,7 @@
 * To generate HTML report<br />
 `pytest -vs --html .//Reports\report.html test_cases/test_001_login.py --browser chrome`
 
-####Finally, you can directly run the code from Github Folder in Jenkins:
+#### You can also directly run the code from Github Folder in Jenkins using the Run.bat file:
 ![jenkins nopCommerce pass](https://github.com/SaVignesh/nopCommerceAdmin/assets/47379614/83c3a795-ecec-4c18-ba5f-3dbe90b4f170)
 
 
